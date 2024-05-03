@@ -32,16 +32,19 @@ h1 {
     height: 50px;
     background-color:grey;
     border:none;
+    font-size: 18px;
 }
 #minus-icon {
     width:150px;
     height: 50px;
     background-color: blanchedalmond;
     border:none;
+    font-size:18px;
 }
 #submit-icon {
     width:150px;
     height: 50px;
     background-color:aliceblue;
     border:none;
+    font-size:18px;
 }
