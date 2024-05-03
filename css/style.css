@@ -17,7 +17,7 @@ html {
     border:10px black;
     border-radius:20px;
 } 
-h1 {
+h1, h2 {
     background-image: url(../css/istockphoto-1613107687-1024x1024.jpg);
     background-size:cover;
     font-weight: 1000;
