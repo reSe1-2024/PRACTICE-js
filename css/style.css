@@ -1,0 +1,47 @@
+html {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width:100vh;
+    margin:auto;
+    background-image: url(../css/pascal-bullan-WAp5NryejEI-unsplash.jpg);
+    background-size: cover;
+    text-align: center;
+    line-height: 2.5rem;
+}
+.container {
+    background-color: white;
+    margin:auto;
+    padding:3rem;
+    max-width: 80%;
+    background-color:rgba(15, 30, 0, 0.803);
+    border:10px black;
+    border-radius:20px;
+} 
+h1 {
+    background-image: url(../css/istockphoto-1613107687-1024x1024.jpg);
+    background-size:cover;
+    font-weight: 1000;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color:transparent;
+    text-shadow: 2rem;
+
+}
+#add-icon {
+    width:10%;
+    height: 30%;
+    background-color:grey;
+    border:none;
+}
+#minus-icon {
+    width:10%;
+    height: 30%;
+    background-color: blanchedalmond;
+    border:none;
+}
+#submit-icon {
+    width:10%;
+    height: 30%;
+    background-color:aliceblue;
+    border:none;
+}
