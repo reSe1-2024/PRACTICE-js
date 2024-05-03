@@ -33,7 +33,6 @@ h1 {
     background-color:grey;
     border:none;
     font-size: 18px;
-    color: white;
 }
 #minus-icon {
     width:150px;
@@ -41,7 +40,6 @@ h1 {
     background-color: blanchedalmond;
     border:none;
     font-size:18px;
-    color: white;
 }
 #submit-icon {
     width:150px;
@@ -49,5 +47,7 @@ h1 {
     background-color:aliceblue;
     border:none;
     font-size:18px;
+}
+p {
     color: white;
 }
